@@ -1,0 +1,11 @@
+1- Juego -> https://dle.rae.es/juego
+2- Armario -> https://dle.rae.es/armario
+3- Inefable -> https://dle.rae.es/inefable
+4- Ictiología -> https://dle.rae.es/ictiolog%C3%ADa
+5- Almeja -> https://dle.rae.es/almeja
+6- Armamentistico -> https://dle.rae.es/armament%C3%ADstico
+7- Abrumador -> https://dle.rae.es/abrumador
+8- Lamentable -> https://dle.rae.es/lamentable
+9- Abogacia -> https://dle.rae.es/abogac%C3%ADa
+10- Fin -> https://dle.rae.es/fin
+
